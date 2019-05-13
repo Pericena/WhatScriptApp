@@ -13,6 +13,7 @@ Pero bajo ese inofensivo mensaje se esconde un código binario que WhatsApp, y e
 
 https://www.lpericena.tk/2019/04/whatscriptapp-spam.html
 
+https://join-adf.ly/21179079
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
 <input type="hidden" name="hosted_button_id" value="MJPRV838AYA2J" />
@@ -21,6 +22,6 @@ https://www.lpericena.tk/2019/04/whatscriptapp-spam.html
 </form>
 <!-- Start of adf.ly banner code --><a href="https://join-adf.ly/21179079"><img border="0" src="https://cdn.ay.gy/images/banners/adfly.350x19.1.png" width="320" height="23" title="AdF.ly - acorta links y gana dinero!" /></a>
 <!-- End of adf.ly banner code -->
-
-### Donación paypal
-- https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MJPRV838AYA2J&source=url
+Donación paypal
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MJPRV838AYA2J&source=url
+https://join-adf.ly/21179079

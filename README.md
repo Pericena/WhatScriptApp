@@ -1,5 +1,7 @@
 # WhatScriptApp
 ![](https://3.bp.blogspot.com/-xwWevl-0q1w/XLfoeVtrBiI/AAAAAAAAO5w/UkOAK9XP5j8STBKWJBzZd_x-AeVvu1tTwCLcBGAs/s1600/Screenshot_49.png)
+
+### Información
 WhatScriptApp es un programa que nos ayudara a hacer spam masivo , el proyecto lo he realizado mas que todo para marketing digital cuando quieres enviar anuncio a cada usuario de la empresa o un cliente .
 
 También puedes usarlo para hacer ataques masivos que hoy en día hay legiones que se encarga de atacar a grupos inapropiados .
@@ -13,5 +15,4 @@ Pero bajo ese inofensivo mensaje se esconde un código binario que WhatsApp, y e
 https://lpericena.blogspot.com/2019/04/whatscriptapp-spam.html
 
 Donación paypal
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MJPRV838AYA2J&source=url
-https://join-adf.ly/21179079
+https://www.paypal.com/paypalme/lpericena
